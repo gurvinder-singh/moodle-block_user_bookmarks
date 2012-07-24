@@ -1,0 +1,10 @@
+User Bookmarks Block for Moodle 2.2:
+
+Suggestions for improvement are welcome on the tracker (tracker.moodle.org).
+
+The User Bookmarks block was created using Admin Bookmarks block. User Bookmarks allows users to bookmark any moodle page.
+
+Installation:
+
+01) Copy the files into the \blocks folder so that you have a \blocks\birthday folder.
+02) Go to the \admin page and allow the block to be installed
