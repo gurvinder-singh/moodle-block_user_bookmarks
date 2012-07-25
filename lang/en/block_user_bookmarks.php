@@ -19,7 +19,8 @@
  * Strings for component 'block_user_bookmarks', language 'en', branch 'MOODLE_20_STABLE'
  *
  * @package   block_user_bookmarks
- * @copyright 1999 onwards Martin Dougiamas  {@link http://moodle.com}
+ * @copyright StraighterLine
+ * @author    Gurvinder Singh
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

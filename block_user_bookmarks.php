@@ -15,16 +15,16 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Admin Bookmarks Block page.
+ * User Bookmarks Block page.
  *
  * @package    block
- * @subpackage admin_bookmarks
- * @copyright  2011 Moodle
+ * @subpackage user_bookmarks
+ * @copyright  2012 Moodle
  * @author     Authors of Admin Bookmarks:-
- *             2006 vinkmar
- *             2011 Rossiani Wijaya (updated)
- *             User Bookmarks:-
- *             2012 Gurvinder Singh (used admin bookmarks code, updated to create user bookmarks block)
+ *               2006 vinkmar
+ *               2011 Rossiani Wijaya (updated)
+ *             Authors of User Bookmarks:-
+ *               2012 Gurvinder Singh (used admin bookmarks code, updated to create user bookmarks block)
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  *
  */
