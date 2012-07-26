@@ -118,7 +118,7 @@ class block_user_bookmarks extends block_base {
 		                         }
 		                     </script>
 				             <a style="cursor: pointer;" onClick="updateBookmark(\''.$tempBookmark[0].'\', \''.$tempBookmark[1].'\', \''.sesskey().'\', \''.$CFG->wwwroot.'\');">
-				                 <img alt="Delete Bookmark" title="Delete Bookmark" src="'. $CFG->wwwroot.'/blocks/user_bookmarks/pix/edit.gif">
+				                 <img alt="Edit Bookmark" title="Edit Bookmark" src="'. $CFG->wwwroot.'/blocks/user_bookmarks/pix/edit.gif">
 				             </a>';
 				//setting layout for the bookmark and its delete and edit buttons
                 $contents[] = html_writer::tag('li', $contentlink . " ".$editLink." " . $deleteLink);
